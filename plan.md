@@ -1,4 +1,4 @@
 # Plan
-So the plan was originally [this](https://scratch.mit.edu/discuss/post/7422464) but then Scratch user [@applejuiceproduc](https://scratch.mit.edu/users/applejuiceproduc/) had a [better idea](https://scratch.mit.edu/discuss/post/7422997).
+So the plan was originally [this](https://scratch.mit.edu/discuss/topic/554511/?page=4#post-7422997) but then [@applejuiceproduc](https://scratch.mit.edu/users/applejuiceproduc/) had a [better idea](https://scratch.mit.edu/discuss/post/7709216/).
 
-This is still the plan that I am using to this day.
+This uses Arch Linux (archiso)
